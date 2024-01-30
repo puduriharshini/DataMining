@@ -13,7 +13,7 @@ def question9_3():
     return answer 
 
 def question9_4():
-    answer = 'Euclidean Distance'
+    answer = 'Euclidean'
     return answer 
 
 def question9_5():
