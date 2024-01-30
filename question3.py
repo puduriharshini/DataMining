@@ -30,5 +30,4 @@ def question3_8():
     answer = ['discrete', 'qualitative', 'ordinal']
     return answer
 
-def question3_8():
-    answer = ['discrete', 'qualitative', 'ordinal']
+
