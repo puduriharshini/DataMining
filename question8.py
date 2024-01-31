@@ -5,11 +5,11 @@ def question8_1():
     return answer
 
 def question8_2():
-    answer = ['y1', 'y2']
+    answer = 'equally similar'
     return answer
 
 def question8_3():
-    answer = ['y1', 'y2']
+    answer = 'equally similar'
     return answer 
 
 def question8_4():
