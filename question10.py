@@ -13,11 +13,11 @@ def question10_3():
     return answer
 
 def question10_4():
-    answer: bool = False #data = true signal + noise. Outliers are part of the data.
+    answer: bool = True
     return answer
 
 def question10_5():
-    answer: bool = False #outlier is a data point that differs from most of the data in the given set, whereas noise is unwanted/undesirable part of data.
+    answer: bool = False 
     return answer
 
 def question10_6():
