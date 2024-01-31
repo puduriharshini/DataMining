@@ -25,7 +25,7 @@ def question10_6():
     return answer
 
 def question10_7():
-    answer: bool = False
+    answer: bool = True
     return answer
 
 def question10_8():
