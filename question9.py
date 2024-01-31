@@ -5,11 +5,11 @@ def question9_1():
     return answer
 
 def question9_2():
-    answer = 'Jaccard'
+    answer = 'SMC'
     return answer
 
 def question9_3():
-    answer = 'Correlation Coefficient'
+    answer = 'Euclidean'
     return answer 
 
 def question9_4():
