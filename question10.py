@@ -5,7 +5,7 @@ def question10_1():
     return answer
 
 def question10_2():
-    answer: bool = True
+    answer: bool = False
     return answer
 
 def question10_3():
