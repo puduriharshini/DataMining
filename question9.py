@@ -5,7 +5,7 @@ def question9_1():
     return answer
 
 def question9_2():
-    answer = 'SMC'
+    answer = 'Jaccard'
     return answer
 
 def question9_3():
@@ -13,7 +13,7 @@ def question9_3():
     return answer 
 
 def question9_4():
-    answer = 'Euclidean'
+    answer = 'Cosine Similarity'
     return answer 
 
 def question9_5():
