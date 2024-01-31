@@ -1,5 +1,5 @@
 def question7_1():
-    answer = 'non-increasing'
+    answer = 'increase/decrease'
     return answer
 
 def question7_2():
